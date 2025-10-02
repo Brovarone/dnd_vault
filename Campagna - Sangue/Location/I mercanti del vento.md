@@ -1,0 +1,6 @@
+---
+tags:
+  - korrak
+  - Location
+---
+Emporio 

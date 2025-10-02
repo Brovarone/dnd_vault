@@ -1,0 +1,5 @@
+---
+tags:
+  - Nano
+---
+Ambasciatore, diplomatico 
