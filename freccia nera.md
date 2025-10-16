@@ -1,0 +1,1 @@
+Barca di [[Rolan Duskwhisper]] , invisibile 

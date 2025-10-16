@@ -1,0 +1,1 @@
+Ragazza umana, arciere con i capelli rasati trovata in [[Taverna La Sirena Sbronza]] 
