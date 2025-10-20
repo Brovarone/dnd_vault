@@ -31,28 +31,30 @@ Abilità: Costituzione, Saggezza, Destrezza
 | Tipo  | Classe | Nome                          | Costo |
 | ----- | ------ | ----------------------------- | ----- |
 | Tal   | gen    | Competenza Arma ( _Randello_) | 5     |
-| Stile | alb 1  | Furtivo in critico            | 4     |
-|       | alb 2  | Critico potente               | 4     |
-|       | alb 3  | Preparare il critico          | 4     |
-| Benef |        | Vigore (1pf)                  | 1     |
-| Benef |        | Tempra Forte (+1 ts T)        | 1     |
-| Benef |        | Volontà ferrea (+1 ts V)      | 1     |
+| Stile | alb 1  | Furtivo in critico            | 4=9   |
+|       | alb 3  | Preparare il critico          | 4=13  |
+| Benef |        | Vigore (1pf)                  | 1=14  |
+| Benef |        | Tempra Forte (+1 ts T)        | 1=15  |
+| Benef |        | Volontà ferrea (+1 ts V)      | 1=16  |
+| Benef |        | Strumento arma                | 1=17  |
+| Benef |        | Riflessi agili (+1 ts R)      | 1=18  |
+| Benef |        | Abile                         | 1=19  |
+| Benef |        | 1 resistenze (fuoco)          | 1=20  |
+
 
 ## 2° Livello - Vagabondo
 4 PF, 
 Abilità: Costituzione, Forza, Carisma
 **Difese:** Riflessi, Tempra
 
-| Tipo  | Classe | Nome                                   | Costo |
-| ----- | ------ | -------------------------------------- | ----- |
-| Tal   | nano 2 | ==Armatura esotica (cuoio borchiato)== | 5     |
-| Tal   | vag 2  | Eludere                                | 5     |
-| Benef |        | Riflessi agili (+1 ts R)               | 1     |
-| Benef |        | Abile                                  | 1     |
-| Tal   | Vag 2  | Movimento veloce                       | 5     |
-| Benef |        | 1 resistenze                           |       |
-| Benef |        | Strumento arma                         | 1     |
-| Benef |        | Mantenere conc                         | 1     |
+| Tipo  | Classe | Nome                                       | Costo |
+| ----- | ------ | ------------------------------------------ | ----- |
+| Tal   | gen 1  | ==Armatura esotica (cuoio borchiato)==     | 5     |
+| Tal   | Vag 2  | Eludere                                    | 5=10  |
+| Tal   | Vag 2  | Movimento veloce                           | 5=15  |
+|       |        |                                            |       |
+| Benef |        | Strumento arma                             | 1     |
+| Benef |        | Mantenere la concentrazione (+5 mant conc) | 1     |
 ## 3° Livello - Mago 
 3 PF, 
 Abilità: Costituzione, Intelligenza, Saggezza
@@ -86,8 +88,16 @@ Abilità: Costituzione, Carisma, Intelligenza
 | Spell | 2°      | Sonno                  | 1     |
 |       |         |                        |       |
 ## 5° Livello - Bardo 2
+4 PF, 
+Abilità: Costituzione, , 
+**Difese:** Riflessi, Volontà
+
 | Tipo  |         | Nome                          | Costo |
 | ----- | ------- | ----------------------------- | ----- |
 | Tal   | Bardo 2 |                               | 5     |
 | Ben   |         | Attacco secondario (3)        | 1     |
 | Stile | alb 1   | Furtivo in critico migliorato | 4     |
+| Slot  | 3°      |                               | 3     |
+| spell | 3°      |                               | 1     |
+| Stile | alb 3   | Critico sul sopraffatto       | 4     |
+|       |         |                               | 19    |

@@ -4,3 +4,13 @@
   vari spunti sul gdr
 - https://github.com/javalent/fantasy-statblocks
   Per fare le schedine dei mostri
+
+## Plugin
+### Modal Form
+https://github.com/danielo515/obsidian-modal-form
+Serve a creare form di inserimento dati con scelta guidata, utile per Template
+In Tasha ad esempio ci sono le razze etc...
+
+## Risorse
+### Lazy GM's Resource Document
+https://github.com/crit-tech/LGMRD/
